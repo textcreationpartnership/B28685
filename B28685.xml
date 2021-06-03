@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Readinesse of the Scots to advance into England the policie and practise of the French agent there to hinder it : exprest in three propositions, together with an act of the Privie Councell there : as also, instructions from the Committee of Estates to the colonels and committees of warre in the severall sheriffedoms of that kingdom.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28685</idno><idno type="EEBO-CITATION">12118781</idno>
+  <idno type="VID">196924</idno>
+  <idno type="EEBO-PROQUEST">2240940100</idno>
+  
+            <idno type="STC">Wing R442</idno>
+            <idno type="OCLC">12118781</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28685)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196924)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 241:E77, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Readinesse of the Scots to advance into England the policie and practise of the French agent there to hinder it : exprest in three propositions, together with an act of the Privie Councell there : as also, instructions from the Committee of Estates to the colonels and committees of warre in the severall sheriffedoms of that kingdom.</title>
+                  <author>Scotland. Parliament. Instructions from the committee of estates to the colonells and committees of warre in the severall sheriffedoms of this kingdom.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196924:1"/>
+            <pb facs="tcp:196924:1"/>
+            <p>THE READINESSE OF THE SCOTS TO ADVANCE INTO ENGLAND.</p>
+            <p>The Policie and Practise of the French Agent there to hinder it.</p>
+            <p>Exprest in three PROPOSITIONS.</p>
+            <p>TOGETHER, With an Act of the Privie Councell there.</p>
+            <p>AS ALSO, Instructions from the Committee of Estates to the Colo<g ref="char:EOLhyphen"/>nels and Committees of Warre in the severall Sheriffedoms of that Kingdom.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Bostock</hi> at the signe of the Kings Head in Pauls Churchyard. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196924:2"/>
+            <pb facs="tcp:196924:2"/>
+            <head>EDENBRUGH, November the <hi>VI, MDCXLIII.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y my last of the 19 of October, I did acquaint you with the resolution of his Majesties privie counsell, concerning the Covenant, I have now sent you the copy of the Ordinance, whereby you may perceive Letters were directed to all the Councellors, who were absent, requiring them to be present at the counsail the second of November, for swearing and subscribing the Covenant, otherwise to bee esteemed enemies to Religion, His Majesties honour, and the peace of the Kingdome. Notwithstanding, whereof the Marquesse of Hamilton, (now by patent from His Maje<g ref="char:EOLhyphen"/>sty Duke Hamilton, and Marquesse of Cliddesdale) the Earl of Rox<g ref="char:EOLhyphen"/>burg, Kalendter and Kinnonbe, excused their not coming by their Letters, humbly intreating some time to advise in a matter of so great weight and importance: Lanerick writes, that immediately be<g ref="char:EOLhyphen"/>fore the receipt of their Letters, he had received Letters from His Ma<g ref="char:EOLhyphen"/>jesty, commanding him to come to him, which, he hoped would ex<g ref="char:EOLhyphen"/>cuse his not coming: Morton saith, he conceived it would be more acceptable to bide away then to come and refuse, Southask he is sick: P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th and Wigston declare their willingnesse to subscribe, but excuse th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir not coming; after prayer and exhortation made by Mr. William B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnet the Covenant was sworn and subscribed; There was pre<g ref="char:EOLhyphen"/>sent the Lord Chancelor, Lord Marquesse of Argile, Earls of Marr, Eglington, Casteilles, Dumferling, Launderdail, Lindsey, Dalhouse, and Angus, Lords, Yester, Sinclair, Elphingston, Balmerinoh, Bur<g ref="char:EOLhyphen"/>lergh, Balcarras Clerk Register, His Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssties advocate, the Treasu<g ref="char:EOLhyphen"/>rer, Deputy, Warres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, the Sheriff of Tiffidail, Cambo and the Pro<g ref="char:EOLhyphen"/>vost of Edenburrough. Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lords who were absent (conform to the Ordinance) are cited against the 16 of this instant, to subscribe the Covenant otherwise, they are th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mselves decerned enemies to Reli<g ref="char:EOLhyphen"/>gion, his Ma<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ies honour and the peace o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Kingdom, and their whole goods a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d rents to be confiscated for the use of the Publick.</p>
+            <pb facs="tcp:196924:3"/>
+            <p>The Commissioners of the generall Assembly are likewise to pro<g ref="char:EOLhyphen"/>ceed against them with Ecclesiasticall censures. The Covenant is now taken almost through the whole Kingdom, none have refused it here in Edenburgh, except one Lawyer.</p>
+            <p>To the Forces which were formerly sent to Barwick the Estates have added my Lord Maitland his Regiment, and have resolved to send no more till the whole body of the Armie march, which now is ready, and onely stayeth for those long expected Articles of treaty. The common Souldiers were never more willing to come forth, not<g ref="char:EOLhyphen"/>withstanding, the season of the yeer. I have sent you likewise the in<g ref="char:EOLhyphen"/>struction from the Committee of Estates, to the Collo. &amp; Committees of War in the severall Sheriffedomes here inclosed. The French Agent hath made three Propositions to the Privie Counsell: one is, That the league betwixt France and Scotland may be renewed: another, That they would recall an Act made by the late general assembly, prohibi<g ref="char:EOLhyphen"/>ting all the members of this Church to take any pay, or to serve un<g ref="char:EOLhyphen"/>der Popish Officers in France: and the last is, That they give no as<g ref="char:EOLhyphen"/>sistance to the Parliament of England. To the first, I conceive, no an<g ref="char:EOLhyphen"/>swer can or will be given, till my Lord Lothian (who was sent in Em<g ref="char:EOLhyphen"/>bassage into France, and is now detayned in Oxford most unjustly,) return home. To the second the Counsel can give no answer in re<g ref="char:EOLhyphen"/>spect the generall Assembly is subordinate to no civill judicature whatsoever, much lesse to the Privie Counsel. To the third wee can performe no lesse then we are obliged by Covenant to do. By the next occasion you may confidently expect newes of our advance, if the Articles come this weeke, however, I am confident, you shall not wait so long for our advance after the Articles come to our hands, as we have expected those Articles which might have been more easily performed, then an Army of at least 20000 men could be gathered to<g ref="char:EOLhyphen"/>gether and brought on their way. Thus expecting from you an oc<g ref="char:EOLhyphen"/>currence by the next occasion, I rest,</p>
+            <closer>
+               <signed>Your known and affectionate friend.</signed>
+               <dateline>Edenburgh, <date>Novemb. 6. 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:196924:3"/>
+            <head>At Edenburgh the 18 of October, 1643.</head>
+            <p>THe which day some of the Ministers of the Presbytery of <hi>Edenburgh,</hi> compeared personally before the Lords of the Privie Councel, and in name and by warrant of the said Presbitery gave in the solemn League and Covenant, together with the Acts of the convention of estates, and generall Assembly and of the Commissioners of the said convention and generall Assemblie made for swearing and subscribing of the same, and desired the said Lords of Privie Councel to concur by their example and authoritie, with the Commissioners of the generall Assembly, for swearing and subscribing thereof, and the Councell having read and considered the said Acts and Covenant, and finding the same to tend to the good of Religion, His Majesties honour and peace of these King<g ref="char:EOLhyphen"/>doms: They doe heartily concur with the judgement of the Com<g ref="char:EOLhyphen"/>missioners of the Convention, and generall assembly therein, and ac<g ref="char:EOLhyphen"/>cordingly ordaines the same to be sworn and subscribed by all His Majesties Subjects of this Kingdome. And appoints the second of November next for the Counsell to swear, and sign the said league and that Letters be directed to all His Majesties Privie Councel<g ref="char:EOLhyphen"/>lors to keep the said dyet precisely, as they desire not to be estee<g ref="char:EOLhyphen"/>med enemies to Religion, His Majesties honour and peace of these Kingdoms. <hi>Extractum de libris actorum secreti consilii. S. D. N. R. per me</hi>
+            </p>
+            <closer>
+               <signed>Arch Prymrose. Cl: Con.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:196924:4"/>
+            <head>Instructions from the Committee of Estates To the Collonels and Committees of warre in the severall Sherieffedoms of this Kingdom.</head>
+            <opener>
+               <dateline>
+                  <hi>At Edinburgh</hi>
+                  <date>
+                     <hi>October</hi> 20. 1643.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas by the Instructions of the first of September 1643, the number of men foot and horse are de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igned to come out of every Shire, for the encouragement and enabling whereof, there is allowed two Dollars to every footman, and one hundreth pounds to every horseman, well mounted w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th a good Horse, and sufficient Arms, and six shillings of transport-money for every twelve miles to the foot-man; There is likewise allowed one carriage horse for every twelve foot-men, and one carriage man for every two horses, appointing fifty Marks to be payed at the Ren<g ref="char:EOLhyphen"/>dezvous of the Shire for every one of the said carriage horses (they being worth fifty pounds) and the horse to pertain to the owner: As also there is to be allowed two Dollars for every carriage man, and a Souldiers pay.</p>
+            <p>The Committee of Estates considering that by the saids Instru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<g ref="char:EOLhyphen"/>ons there Is no way prescribed when and how the said levie money and carriage horse prices shall be payed, have therefore thought fit to declare the same to be in manner after specified.</p>
+            <p>In respect it was the offer of all the Shires, rather to advance their Loan and Tax, then to borrow money, or send in band to the Com<g ref="char:EOLhyphen"/>mittee; therefore the Committee appoints the whole Loan and Tax to be advanced by every severall Shire and Burgh within the same, betwixt the 15. day of November next, to the said Subcollector with<g ref="char:EOLhyphen"/>in the said Shire, for advancement whereof there is two of the hun<g ref="char:EOLhyphen"/>dred to be rebated and allowed for annuall-rent to the advancers, and no reten<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to be allowed to any particular person, for any caus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whatsoever.</p>
+            <p>Every on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall advance his own part, or otherwise one or more in every Pari<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to undertake and advance the proportion of that Parish, to whom i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> allowed the said two of the hundred for annuall-rent, and two o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the hundred for Collectors fee.</p>
+            <pb facs="tcp:196924:4"/>
+            <p>The money being thus advanced, the said Subcollector is to pay to every foot-man, who being sworn to their colours, shall march out of the Shire under command by order, the said two dollars, extend<g ref="char:EOLhyphen"/>ing to eight Marks Scottish money; and to every horse-man well mounted and armed, as said is, one hundred pounds money fore<g ref="char:EOLhyphen"/>said: And to the owner of every carriage horse (worth fifty pounds) fiftie Marks: And to every carriage-man eight Marks of levie money: And to every foot-man, and carriage-man, six shillings for everie twelve miles, conform to the particular note and exact count there<g ref="char:EOLhyphen"/>of, subscribed by the Clerk of the said collection, sent to the Subcol<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tor of every Shire, <hi>respectivè,</hi> the double whereof is herewith sent.</p>
+            <p>And because by Act of Convention, these who have lent money, advanced victuall or other provision for Ireland, are ordained to be payed by the said Loan; The said Committee finds this way of ad<g ref="char:EOLhyphen"/>vancing the same to the Subcollectors to be most advantageous for the furtherance of the work in hand, and for satisfaction to the said persons who have lent money, or advanced for Ireland, as said is.</p>
+            <p>And that each Shire and Burgh within the same, may be assured, that the foresaid summe of money allotted for the Levies, price of carriage horses, and transport-money, shall not be employed for any other use, then as is aforesaid; The Generall Collector, with advice and Command of the said Committee of Estate, gives warrant and power to the Sub-collectors within ilk Shire, after receit of the mo<g ref="char:EOLhyphen"/>ney so to be advanced, to give band and securitie, to keep the said proportion of money in his own hand, and not to dispose thereupon, untill further order come for marching or mustering of the said men, Foot and Horse, with carriage horses, and men conforme: At which time, he shall deliver the same in manner above-written as the Co<g ref="char:EOLhyphen"/>lonels and Committees of Warre shall appoint for the uses afore<g ref="char:EOLhyphen"/>said, the remanent alwayes of the whole summe being advanced, as said is: To the effect these who have lent money, and advanced victu<g ref="char:EOLhyphen"/>all and provision for Ireland, may be satisfied, conforme to the te<g ref="char:EOLhyphen"/>nour of the said Act of Convention.</p>
+            <p>And siclike the said Committees of War within the whole King<g ref="char:EOLhyphen"/>dom are entreated to have their Regiments and Troups of Foot and Horse, aswell these who are to come out upon advertisement, as these who stayes within, (where the same is not alreadie done) formed, en<g ref="char:EOLhyphen"/>rolled, put under command, exercised, and made in readinesse, That upon fourtie eight houres warning, their numbers appointed may
+<pb facs="tcp:196924:5"/> be ready to march, with their carriage horses, armes, and all other provision contained in the former instructions of the 1. of Septe. last.</p>
+            <p>And the Colonels and Committees in every Shire are to take spe<g ref="char:EOLhyphen"/>ciall care, as they would make conscience of the Covenant, and re<g ref="char:EOLhyphen"/>gard the cause in hand, that the said Loan and Taxt be advanced: And that the Souldiers appointed to come forth, be of the ablest and most vigorous men in each Parish: And that they do not upon any termes admit old nor weak men, nor young boyes and naughtie bo<g ref="char:EOLhyphen"/>dies to come forth. And if any such person shall be offered to them, that they refuse him, and unlesse the Heritor furnish an able man in his place, it shall be lawfull to the Committee and Colonel, to take the ablest man or servant that belongeth to the said Heritor. And the Committees are to cause the Heritors provide them Souldiers with Arms, two part Muskets, and third part Pikes. And that the Colonels cause their Captains to be busie in training and exercising their soul<g ref="char:EOLhyphen"/>diers to handle their Arms: And also to be carefull that as many be made choice of, of these who served in the last expedition, both Of<g ref="char:EOLhyphen"/>ficers and Souldiers, as can be conveniently had.</p>
+            <p>And because every Regiment must carry their own Ammunition, and draw their own fielding-pieces, and other materials; the Com<g ref="char:EOLhyphen"/>mittee ordains that ilk Shire and Division shall either buy 12. horses for every Regiment, upon the expences of the Shire or Division, or hire them to be paid by the publick after they come to the Generall Rendezvous, as other carriage horses of the Artillery, <hi>viz.</hi> allowing a man for every two horse, who is to have pay as a common Souldier, and for each horse twelve shillings. Every horse-man is to have 18, shillings scots in their transport, for every twenty miles from their Rendezvous in the Shire, to the Generall Randevous.</p>
+            <p>And it is ordained that report be made hereof by the Committees of Warre in ilk Shire (to whom the same is recommended) as well anent the advance of the Loane and Taxt, as anent the other particu<g ref="char:EOLhyphen"/>lars foresaids, with all convenient diligence, after the recept hereof.</p>
+            <closer>
+               <signed>Arch. Primrose, Cler. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
